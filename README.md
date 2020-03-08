@@ -36,3 +36,8 @@ input 태그는 데이터를 입력받기 위한 태그이다.<br>
 -	IE 에서 동작하지 않으므로 주의<br>
 <img src='./struct.png'>
  
+ 
+ <hr>
+ <img src="/1.PNG">
+ <img src="/2.PNG">
+ <img src="/3.PNG">
